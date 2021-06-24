@@ -1,5 +1,11 @@
-Main objective
+Installation
 --------------
 
-Describe here how to get 2 hands and 10 fingers.
+> cd web
+> npm install
+
+Start the web server
+--------------------
+> cd web
+> npm start
 
